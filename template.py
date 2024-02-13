@@ -4,7 +4,7 @@ import logging
 
 logging.basicConfig(level=logging.INFO)
 
-project_name = "Predictive Workforce Analytics"
+project_name = "Predictive_Workforce_Analytics"
 
 list_of_file = [
     "github/workflows/.gitkeep",
